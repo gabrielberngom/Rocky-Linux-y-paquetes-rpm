@@ -1,6 +1,6 @@
 # Rocky Linux y paquetes rpm
 
-![image](0.pmg)
+![image](0.png)
 
 ## [Introducción](modulo0.md)
 ## [Paquetes rpm](modulo1.md)
