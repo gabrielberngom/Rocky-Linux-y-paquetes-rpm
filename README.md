@@ -1,1 +1,1 @@
-# Rocky-Linux-y-paquetes-rpm
+# Rocky Linux y paquetes rpm
