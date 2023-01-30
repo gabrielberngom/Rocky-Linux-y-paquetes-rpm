@@ -4,5 +4,5 @@
 ## [Repositorios Rocky Linux](modulo2.md)
 ## [Operaciones Básicas](modulo3.md)
 ## [Referencias](referencias.md)
-## [Autor](autor.md)
+## [Autor](autores.md)
 ## [Licencia](licencia.md)
