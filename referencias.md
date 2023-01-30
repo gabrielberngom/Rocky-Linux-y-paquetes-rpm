@@ -1,2 +1,2 @@
-[INTRODUCCIÓN](https://es.wikipedia.org/wiki/Rocky_Linux)
-[PAQUETES RPM](https://es.wikipedia.org/wiki/RPM_Package_Manager)
+- [INTRODUCCIÓN](https://es.wikipedia.org/wiki/Rocky_Linux)
+- [PAQUETES RPM](https://es.wikipedia.org/wiki/RPM_Package_Manager)
