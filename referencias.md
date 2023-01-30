@@ -1,1 +1,2 @@
-.[Wikipedia](https://es.wikipedia.org/wiki/Rocky_Linux)
+[INTRODUCCIÓN](https://es.wikipedia.org/wiki/Rocky_Linux)
+
